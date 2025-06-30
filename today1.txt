@@ -1,2 +1,7 @@
 Hello, this is a text file creating to test the git version control system.
 new line added using github.
+def fun():
+"Git branch checkout command"
+   pass
+
+
